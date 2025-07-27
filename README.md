@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [DevGram](https://github.com/Surajh09/devgram)
 
-- 👨‍💻 All of my projects are available at [surajh-portfolio-3d.vercel.app](surajh-portfolio-3d.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://suraj-hemnani.vercel.app/)
 
 - 💬 Ask me about **Full stack development, DevOps, Python, Java, Dockers**
 
