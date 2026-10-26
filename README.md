@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh09&label=Profile%20views&color=0e75b6&style=flat" alt="surajh09" /> </p>
 
-- 🔭 I’m currently working on [Video chat](https://github.com/Surajh09/video-chat)
+- 🔭 I’m currently working on [Forge](https://github.com/Surajh09/forge)
 
 - 🌱 I’m currently learning **Adv. Devops**
-
-- 👯 I’m looking to collaborate on [DevGram](https://github.com/Surajh09/devgram)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://suraj-hemnani.vercel.app/)
 
